@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.duckdb
+*.log
+profiles.jsonl
+.env
+.venv/
+.pytest_cache/
